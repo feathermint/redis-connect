@@ -5,7 +5,7 @@ const log = logger.create("redis");
 
 export async function connect(
   url = "redis://localhost:6379",
-  options?: RedisOptions
+  options?: RedisOptions,
 ): Promise<Redis> {
   let safeURL = url;
   if (url.indexOf("@") != -1) {
