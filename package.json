@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@feathermint/logger": "^1.0.0",
-    "@redis/client": "^1.5.7"
+    "ioredis": "^5.3.2"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.6.3",

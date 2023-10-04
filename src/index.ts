@@ -1,2 +1,2 @@
-export * from "@redis/client";
+export * from "ioredis";
 export { connect } from "./connect";
