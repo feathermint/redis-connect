@@ -1,6 +1,6 @@
 {
   "name": "@feathermint/redis-connect",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Utility function to establish and verify a connection to Redis.",
   "author": "Feathermint",
   "license": "GPL-3.0-or-later",
